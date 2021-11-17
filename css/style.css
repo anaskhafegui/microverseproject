@@ -39,3 +39,10 @@
 
     margin: 30px;
 }
+
+#tribute-info cite {
+  padding: 30px;
+}
+#tribute-link {
+  text-decoration: none;
+}
