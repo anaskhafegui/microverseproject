@@ -11,3 +11,31 @@
     text-align: center;
 
 }
+
+#img-div {
+    background-color: white;
+    margin: 0 10px;
+}
+
+#tribute-info {
+
+    padding: 30px 500px 10px 500px;
+    text-align: left;
+    -ms-text-size-adjust: auto;
+
+}
+
+#link {
+
+    font-weight: bold;
+}
+
+#tribute-info h2 {
+
+    text-align: center;
+}
+
+#tribute-info ul li {
+
+    margin: 30px;
+}
